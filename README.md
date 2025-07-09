@@ -4,7 +4,7 @@
 # 🎮 2D Games Launcher Project
 
 Hi there! 👋
-This is a **Python-based 2D Games Launcher** I created during my gap year between completing 12th standard and entering college.
+This is a Python-based 2D Games Launcher I built during a 3-month gap between finishing my 12th standard and starting college — a fun way to practice coding and stay productive!
 
 ---
 
