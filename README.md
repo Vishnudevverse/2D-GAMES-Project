@@ -40,9 +40,13 @@ The `main.py` file acts like a home screen, launching a dashboard (like an Andro
 ## ✅ Key Features
 
 ✔️ One launcher dashboard for all 4 games — just like a home app on Android OS!
+
 ✔️ Individual user profiles with saved progress
+
 ✔️ Simple, beginner-friendly Python project
+
 ✔️ GUI made with **Tkinter** and **Turtle**
+
 ✔️ Error handling for smoother gameplay
 
 ---
