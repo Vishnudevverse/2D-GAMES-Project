@@ -68,13 +68,7 @@ git clone https://github.com/yourusername/your-repo-name.git
 **Set up your MySQL database:**
 
 * make sure your mysql user name is root or not, if not kindly change the username in main.py file.
-
-**Run the launcher:**
-
-```bash
-python main.py
-```
-
+  
 ---
 
 ## 🎓 About This Project
