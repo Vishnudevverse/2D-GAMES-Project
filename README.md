@@ -16,9 +16,9 @@ The `main.py` file acts like a home screen, launching a dashboard (like an Andro
 **Technology Stack:**
 
 * **Python** (5 `.py` files total)
-* **Tkinter** for the launcher and 3 games
-* **Turtle** for 1 game
-* **MySQL** to store user data and scores
+- **Tkinter** for the launcher and 3 games
+- **Turtle** for 1 game
+- **MySQL** to store user data and scores
 
 ---
 
