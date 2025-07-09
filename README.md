@@ -67,8 +67,7 @@ git clone https://github.com/yourusername/your-repo-name.git
 
 **Set up your MySQL database:**
 
-* Create a database and tables for storing user data and scores.
-* Update your connection details in the code (`host`, `user`, `password`, `database`).
+* make sure your mysql user name is root or not, if not kindly change the username in main.py file.
 
 **Run the launcher:**
 
