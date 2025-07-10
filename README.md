@@ -16,6 +16,7 @@ The `main.py` file acts like a home screen, launching a dashboard (like an Andro
 **Technology Stack:**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
 ![Tkinter](https://img.shields.io/badge/Tkinter-GUI%20Library-blue?style=flat)
 ![Turtle](https://img.shields.io/badge/Turtle-Graphics-26C281?style=flat)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
